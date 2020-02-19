@@ -13,7 +13,8 @@ export class StringInterpolationComponent implements OnInit {
 
   person ={
     firstname:"John",
-    lastname:"Bro"
+    lastname:"Bro",
+    age:"30"
   }
 
   constructor() { }
